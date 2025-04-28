@@ -19,10 +19,20 @@ When you click the "Generate Color" button, it randomly generates a new RGB colo
 
 ---
 
+## 🔗 Live Site
+
+👉 [View Random Color Generator](https://chirag6722.github.io/Random-color-generator/)
+
+---
+
 ## 🛠️ Technologies Used
 
 - HTML
 - CSS
-- JavaScript 
+- JavaScript
+
+---
+
+
 
 
