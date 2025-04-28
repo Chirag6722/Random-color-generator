@@ -15,7 +15,7 @@ When you click the "Generate Color" button, it randomly generates a new RGB colo
 
 ## 📸 Screenshot
 
-![Random Color Generator Screenshot](screenshot.png)
+![Random Color Generator Screenshot](screenshot)
 
 ---
 
